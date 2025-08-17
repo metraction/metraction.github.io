@@ -1,4 +1,4 @@
-baseURL = "https://metraction.github.io/page/"
+baseURL = "https://metraction.github.io/"
 title = "Pharos"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
