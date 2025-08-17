@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://metraction.github.io/"
 title = "Pharos"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
@@ -12,7 +12,7 @@ enableGitInfo = true
 [pagination]
 disableAliases = false
 pagerSize = 10
-path = 'page'
+path = 'p'
 
 # disableKinds = ["taxonomy"]
 
