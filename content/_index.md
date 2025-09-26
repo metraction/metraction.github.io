@@ -43,6 +43,5 @@ kubectl apply -f helm/pharos/templates/configmap-enrichers.yaml
 {{< /column >}}
 
 {{< column >}}
-<img src="/images/vente-small.png" alt="diy" style="display:block;margin:0 auto;max-width:100%;height:auto;" />
 {{< /column >}}
 {{< /block >}}
